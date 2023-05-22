@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5010bd20-17ab-465d-8524-820fd51ad3b1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="UserServiceTest.doLogin" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\apache-maven-3.6.3\m2" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PVMN870aSxrTduONNoY9rGk6oQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="E:/计算机科学技术/java/java study/gitCode/antd-access-backend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16308594" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaCode\userCenter\javaCode\user-center\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaCode\userCenter\javaCode\user-center\src\main\resources\mapper" />
+      <recent name="D:\javaCode\userCenter\javaCode\user-center\src\main\resources\bak\mapper" />
+      <recent name="D:\javaCode\userCenter\javaCode\user-center\src\main\resources\bak" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.usercenter.model.domain" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.usercenter.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.usercenter.model.domain.request" />
+      <recent name="com.awang.usercenter.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserCenterApplication (1)">
+    <configuration name="UserServiceTest.check1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usercenter.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usercenter.service" />
+      <option name="MAIN_CLASS_NAME" value="com.usercenter.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="check1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.doLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usercenter.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usercenter.service" />
+      <option name="MAIN_CLASS_NAME" value="com.usercenter.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="doLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.selectList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usercenter.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usercenter.service" />
+      <option name="MAIN_CLASS_NAME" value="com.usercenter.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="selectList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testAddUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usercenter.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usercenter.service" />
+      <option name="MAIN_CLASS_NAME" value="com.usercenter.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testAddUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.userRegister" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usercenter.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usercenter.service" />
+      <option name="MAIN_CLASS_NAME" value="com.usercenter.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="userRegister" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCenterApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usercenter.UserCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.doLogin" />
+        <item itemvalue="JUnit.UserServiceTest.selectList" />
+        <item itemvalue="JUnit.UserServiceTest.userRegister" />
+        <item itemvalue="JUnit.UserServiceTest.testAddUser" />
+        <item itemvalue="JUnit.UserServiceTest.check1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5010bd20-17ab-465d-8524-820fd51ad3b1" name="Changes" comment="" />
+      <created>1683537754731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683537754731</updated>
+      <workItem from="1683537762476" duration="5878000" />
+      <workItem from="1683546980219" duration="5996000" />
+      <workItem from="1683559558739" duration="622000" />
+      <workItem from="1683560364231" duration="1848000" />
+      <workItem from="1683610483713" duration="14109000" />
+      <workItem from="1683710994155" duration="1080000" />
+      <workItem from="1683716824763" duration="12047000" />
+      <workItem from="1683793083190" duration="4480000" />
+      <workItem from="1683860447435" duration="8553000" />
+      <workItem from="1684073099898" duration="1071000" />
+      <workItem from="1684145085947" duration="7792000" />
+      <workItem from="1684216657497" duration="18566000" />
+      <workItem from="1684317627673" duration="11518000" />
+      <workItem from="1684371737934" duration="3899000" />
+      <workItem from="1684382839085" duration="604000" />
+      <workItem from="1684384132432" duration="8718000" />
+      <workItem from="1684401737315" duration="16510000" />
+      <workItem from="1684464664455" duration="14190000" />
+      <workItem from="1684673688360" duration="3692000" />
+      <workItem from="1684679598883" duration="3873000" />
+      <workItem from="1684688549115" duration="2549000" />
+      <workItem from="1684726504471" duration="1733000" />
+      <workItem from="1684728497535" duration="6099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="application.yml" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="searchRequest" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

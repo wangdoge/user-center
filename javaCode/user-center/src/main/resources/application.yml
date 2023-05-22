@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: user-center
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/user_center?serverTimeZone=UTC
+      username: root
+      password: 123456
+
+server:
+  port: 8088
+  servlet:
+    context-path: /api
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: false
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      table-prefix: tbl_
+      id-type: auto
+      logic-delete-field: isDelete
+      logic-delete-value: 1
+      logic-not-delete-value: 0

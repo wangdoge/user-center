@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: user-center
+  datasource:
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://101.35.233.178:3306/user_center?serverTimeZone=UTC
+      username: wyf1
+      password: 123456
+
+server:
+  address: 0.0.0.0
+
